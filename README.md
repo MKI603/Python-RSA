@@ -1,5 +1,5 @@
 # Python-RSA
-use python3 to relise RSA Encrypt
+use python3 to realize RSA Encrypt
 
 ## Usage
 
